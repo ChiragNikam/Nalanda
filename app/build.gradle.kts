@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.nalanda"
+    namespace = "com.release.nalanda"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.nalanda"
+        applicationId = "com.release.nalanda"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

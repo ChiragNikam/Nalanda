@@ -1,4 +1,4 @@
-package com.example.nalanda;
+package com.release.nalanda;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.nalanda", appContext.getPackageName());
+        assertEquals("com.release.nalanda", appContext.getPackageName());
     }
 }

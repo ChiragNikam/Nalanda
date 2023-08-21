@@ -1,4 +1,4 @@
-package com.example.nalanda;
+package com.release.nalanda;
 
 import org.junit.Test;
 

@@ -1,10 +1,11 @@
-package com.example.nalanda;
+package com.release.nalanda;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
+import com.release.nalanda.R;
+
 
 public class Activity0_SplashActivity extends AppCompatActivity {
 
